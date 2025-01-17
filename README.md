@@ -8,16 +8,16 @@ Repository for all my DS/ML experiments, with folders separating each project. F
 
 | Version  | Description | Accuracy |
 | ------------- | ------------- | ------------- |
-| [V2](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250113-titanic-random-forest-h-parameter-tuning.ipynb)  | <ul><li>Data augmentaion to increase size of training dataset & reduce overfitting </li><li>Adding single convolutional layer</li>  | 98.5% (+5.4%)  |
-| [V1](https://github.com/a-asaria/data-science/blob/main/2501-MNIST-Tensorflow/250114-minst-initial-play-around-score-0-931.ipynb)  | <ul><li>Basic neural network with dense layers</li><li>Reducing overfitting with L2 kernel regularizer</ul></li> | 93.1%  |
+| [V2](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250113-titanic-random-forest-h-parameter-tuning.ipynb)  | <ul><li>Data augmentaion to increase size of training dataset & reduce overfitting </li><li>Adding single convolutional layer</li>  | <ul><li>98.5% (+5.4%)</ul></li>  |
+| [V1](https://github.com/a-asaria/data-science/blob/main/2501-MNIST-Tensorflow/250114-minst-initial-play-around-score-0-931.ipynb)  | <ul><li>Basic neural network with dense layers</li><li>Reducing overfitting with L2 kernel regularizer</ul></li> | <ul><li>93.1% </ul></li> |
 
 ### 2501-Titanic
 **Description:** The classic Kaggle supervised  problem of predicting whether a set of passengers on the Titanic will survive
 
 | Version  | Description | Accuracy |
 | ------------- | ------------- | ------------- |
-| [V2](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250113-titanic-random-forest-h-parameter-tuning.ipynb)  | <ul><li>Add additional features </li><li> EDA to decide how to impute incomplete feature data </li><li> Using GridSearchCV to tune hyperparameters  | 78.7% (+1.2%, Top 15%)  |
-| [V1](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250110-titanic-tutorial.ipynb)  | <ul><li>Familiarise myself with platform, using the Kaggle tutorial RF model with simple set of features </li></ul> | 77.5%  |
+| [V2](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250113-titanic-random-forest-h-parameter-tuning.ipynb)  | <ul><li>Including additional features </li><li> EDA to decide how to impute incomplete feature data </li><li> Using GridSearchCV to tune hyperparameters  | <ul><li>78.7% (+1.2%)</li><li> Top 15%</ul></li>   |
+| [V1](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250110-titanic-tutorial.ipynb)  | <ul><li>Familiarise myself with platform, using the Kaggle tutorial RF model with simple set of features </li></ul> | <ul><li>77.5%</ul></li>   |
 
 
 
