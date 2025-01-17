@@ -3,7 +3,7 @@ Repository for all my DS/ML experiments, with folders separating each project. F
 
 ## Projects summary
 
-### 2501-Playing with Tensorflow and MNIST
+### 2501-Playing with Tensorflow & MNIST dataset
 **Description:** Making some basic neural networks with Tensorflow to categorise handwritten digits from the MNIST dataset. I will return to this problem with more complex convolutional neural networks once I have picked up PyTorch, given the current trend towards that library
 
 | Version  | Description | Accuracy |
