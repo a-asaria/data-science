@@ -16,7 +16,8 @@ Repository for all my DS/ML experiments, with folders separating each project. F
 
 | Version  | Description | Accuracy |
 | ------------- | ------------- | ------------- |
-| [V2](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250113-titanic-random-forest-h-parameter-tuning.ipynb)  | <ul><li>Including additional features </li><li> EDA to decide how to impute incomplete feature data </li><li> Using GridSearchCV to tune hyperparameters  | <ul><li>78.7% (+1.2%)</li><li> Top 15%</ul></li>   |
+| [V3](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250117-w-feature-eng-selection.ipynb)  | <ul><li>More sophisticated feature engineering</li><li>Using XGBoost model, `early_stopping_rounds` to prevent overfitting  | <ul><li>78.2% (+0.7%)</li></ul>   |
+| [V2](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250113-titanic-random-forest-h-parameter-tuning.ipynb)  | <ul><li>Including additional features </li><li> EDA to decide how to impute incomplete feature data </li><li> Using GridSearchCV to tune hyperparameters  | <ul><li>77.5% (+0.2%)</li></ul>   |
 | [V1](https://github.com/a-asaria/data-science/blob/main/2501-Titanic/250110-titanic-tutorial.ipynb)  | <ul><li>Familiarise myself with platform, using the Kaggle tutorial RF model with simple set of features </li></ul> | <ul><li>77.5%</ul></li>   |
 
 
