@@ -13,7 +13,7 @@ Repository for all my DS/ML experiments, with folders separating each project. F
 | [V2](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250121-house-prices-2-taking-log-of-feature.ipynb)  | <ul><li>Does converting the target variable to its log (to make it more normally distributed) help? (Yes)</li> | <ul><li>0.14498 (-1.0%)</ul></li>  |
 | [V1](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250120-house-prices-1.ipynb)  | <ul><li>Feature engineering and removing outliers</li><li>Random Forest Regressor with GridSearchCV to tune hyperparameters</ul></li> | <ul><li>0.1465</ul></li> |
 
-### 2501-Playing with Tensorflow & MNIST dataset (Kaggle)
+### 2501-Playing with Tensorflow & MNIST dataset (Kaggle - Top 54% of submissions - to revisit once learned PyTorch)
 **Description:** Making some basic neural networks with Tensorflow to categorise handwritten digits from the MNIST dataset. I will return to this problem with more complex convolutional neural networks once I have picked up PyTorch, given the current trend towards that library
 
 | Version  | Description | Test Accuracy |
