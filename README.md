@@ -4,7 +4,7 @@ Repository for all my DS/ML experiments, with folders separating each project. F
 ## Projects summary
 
 ### 2501-House Prices - Advanced Regression Techniques (Kaggle - Top 14% of submissions)
-**Description:** Trying different techniques and regressor models to predict house prices based
+**Description:** Trying different techniques and regressor models to predict house prices
 
 | Version  | Description | Score (RMSE of log(HousePrice)) |
 | ------------- | ------------- | ------------- |
