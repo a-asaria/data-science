@@ -8,9 +8,9 @@ Repository for all my DS/ML experiments, with folders separating each project. F
 
 | Version  | Description | Test Score (RMSE of log(HousePrice)) |
 | ------------- | ------------- | ------------- |
-| [V4](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250122-house-prices-4-stacked-model.ipynb)  | <ul><li>Combining multiple regressors into a VotingRegressor & StackingRegressor V1</li><li>To come back and explore this in more detail, due to slight decline in performance</li></ul> | <ul><li>0.12646 (+0.0007)</ul></li>  |
-| [V3](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250121-house-prices-3-with-gbregressor.ipynb)  | <ul><li>Do we get a better performance with a different (GradientBoostedRegressor) model?</li> | <ul><li>0.12576 (-0.019)</ul></li>  |
-| [V2](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250121-house-prices-2-taking-log-of-feature.ipynb)  | <ul><li>Does converting the target variable to its log (to make it more normally distributed) help? (Yes)</li> | <ul><li>0.14498 (-0.0015)</ul></li>  |
+| [V4](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250122-house-prices-4-stacked-model.ipynb)  | <ul><li>Combining multiple regressors into a VotingRegressor & StackingRegressor V1</li><li>To come back and explore this in more detail, due to slight decline in performance</li></ul> | <ul><li>0.12646 (+5.6%)</ul></li>  |
+| [V3](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250121-house-prices-3-with-gbregressor.ipynb)  | <ul><li>Do we get a better performance with a different (GradientBoostedRegressor) model?</li> | <ul><li>0.12576 (-13.2%)</ul></li>  |
+| [V2](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250121-house-prices-2-taking-log-of-feature.ipynb)  | <ul><li>Does converting the target variable to its log (to make it more normally distributed) help? (Yes)</li> | <ul><li>0.14498 (-1.0%)</ul></li>  |
 | [V1](https://github.com/a-asaria/data-science/blob/main/2501-House-Prices-Regression-Kaggle/250120-house-prices-1.ipynb)  | <ul><li>Feature engineering and removing outliers</li><li>Random Forest Regressor with GridSearchCV to tune hyperparameters</ul></li> | <ul><li>0.1465</ul></li> |
 
 ### 2501-Playing with Tensorflow & MNIST dataset (Kaggle)
