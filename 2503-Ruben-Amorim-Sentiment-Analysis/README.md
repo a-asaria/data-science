@@ -1,1 +1,1 @@
-# How happy are r/reddevils with new manager Ruben Amorim?
+# How happy are r/reddevils users with new manager Ruben Amorim?
