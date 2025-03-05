@@ -1,3 +1,5 @@
+# Can we build a model to determine whether a taxi driver follows their predicted route?
+
 We have a scenario where a taxi app, where customers request journeys through an app. The app then estimates the route that the driver will take (to be able to set a price), and then the driver arrives to pick up and drop off the person. To understand if the price estimate is correct, it's important to understand whether the estimated aroute and the real route the driver did are the same
 
 The task here is to build a model that determines whether the real and estimated route were the same. To that end we have a dataset of:
