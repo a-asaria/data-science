@@ -3,7 +3,6 @@ Repository for all my DS/ML experiments, with folders separating each project. F
 
 ## Other Projects
 * [Can we model whether a taxi followed its predicted route? (In progress)](https://github.com/a-asaria/data-science/tree/main/2502-Modelling-Taxi-Routes)
-* [How happy are r/reddevils users with Ruben Amorim? (Sentiment analysis, in progress)](https://github.com/a-asaria/data-science/tree/main/2503-Ruben-Amorim-Sentiment-Analysis)
   
 ## Kaggle Competitions
 * [House Prices - Advanced Regression Techniques (Top 12% of submissions)](https://github.com/a-asaria/data-science/tree/main/2501-House-Prices-Regression-Kaggle)
