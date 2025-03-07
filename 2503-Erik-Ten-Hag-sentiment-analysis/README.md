@@ -5,6 +5,6 @@ There's no better pedigree for a new, young manager joining your team than the A
 
 My goal here is to, by running a sentiment analysis on comments on r/reddevils, understand how our collective feeling towards Ten Hag changed over time during his tenure
 
-## Approach
+## Approach (In progress)
 1. Download all historic `r/reddevils` comments via [pushshift]([url](https://www.reddit.com/r/pushshift/))
 2. Filter for comments 1) referencing the manager and 2) during his tenure with `filter_eth_comments.py` (based on work by [varunnrao]([url](https://github.com/varunnrao/QuaLLM-Policy)))
