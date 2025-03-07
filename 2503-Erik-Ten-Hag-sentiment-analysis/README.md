@@ -7,4 +7,4 @@ My goal here is to, by running a sentiment analysis on comments on r/reddevils, 
 
 ## Approach
 1. Download all historic `r/reddevils` comments via [pushshift]([url](https://www.reddit.com/r/pushshift/))
-2. Filter for comments 1) referencing the manager and 2) during his tenure with `filter_eth_comments.py`
+2. Filter for comments 1) referencing the manager and 2) during his tenure with `filter_eth_comments.py` (based on work by [varunnrao]([url](https://github.com/varunnrao/QuaLLM-Policy)))
